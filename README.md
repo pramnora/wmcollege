@@ -3,6 +3,8 @@
 **Created**: *Tue 3rd Dec 2024 17:47 PM GMT*  
 **Updated**: *Tue 3rd Dec 2024 17:47 PM GMT*  
 
+-----
+
 ## Introduction
 
 These notes are related to my experience of attending:  
