@@ -1,0 +1,46 @@
+/* Stylesheet for...Paul Ramnora Web Site 01
+
+   Created: 14:24 10/10/2024
+   Updated: 14:24 10/10/2024
+*/
+
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:active{color:orange;} 
+a:hover{color:red;text-decoration:underline;}
+a:visited{color:purple;}
+
+/* main */
+
+body{
+ font-family:arial,verdana,sans-serif;
+}
+
+nav, header, main, footer{
+ text-align:center;
+}
+
+p.clsPara{
+ text-indent:1cm;
+}
+
+
+/* Classes */
+
+.clsDateTimeStamp{
+ color:red;
+ font-style:italic;    
+}
+ 
+/* ID's */
+
+#idH1SquareBrackets{
+ color:yellow;
+}
+
+#idH1SiteNumber{
+ color:red;
+ font-style:italic;
+}
+
