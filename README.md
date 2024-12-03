@@ -10,6 +10,19 @@
 These notes are related to my experience of attending:  
 WMCollege/Working Men's College, Mornington Crescent branch in the Camden area of London.    
 
+
+CAMDEN  
+44 Crowndale Road  
+NW1 1TR  
+Tel: 020 7255 4700  
+Email: learnerservices@wmcollege.ac.uk  
+
+KENTISH TOWN  
+7 Leighton Place  
+NW5 2QL  
+Tel: 020 7241 8572  
+Email: learnerservices@wmcollege.ac.uk  
+
 -----
 
 ## Links...
