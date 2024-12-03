@@ -5,7 +5,8 @@
 
 ## Introduction
 
-These notes are related to my experience of attending WMCollege/Working Men's College, Mornington Crescent branch in the Camden area of London.    
+These notes are related to my experience of attending:  
+WMCollege/Working Men's College, Mornington Crescent branch in the Camden area of London.    
 
 -----
 
