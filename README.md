@@ -8,8 +8,13 @@
 ## Introduction
 
 These notes are related to my experience of attending:  
-WMCollege/Working Men's College, Mornington Crescent branch in the Camden area of London.    
+WMCollege/Working Men's College, Mornington Crescent branch in the Camden area of London.
+  
+I started attending there in the middle of Jul 2023;    
+-(when I was granted a FREE London travel pass)-;        
+and, am still going there, now; it's the beginning of Dec 2024.  
 
+## College details
 
 CAMDEN  
 44 Crowndale Road  
