@@ -1,7 +1,7 @@
-/* Stylesheet for...Paul Ramnora Web Site 01
+/* Stylesheet for...Paul Ramnora Web Site [01]
 
-   Created: 14:24 10/10/2024
-   Updated: 14:24 10/10/2024
+   Created: 10/10/2024 14:24 PM GMT
+   Updated: 21/08/2025 13:06 PM GMT
 */
 
 /* links */
@@ -23,6 +23,11 @@ nav, header, main, footer{
 
 p.clsPara{
  text-indent:1cm;
+}
+
+summary{
+ background-color:gray; 
+ color:white;
 }
 
 
